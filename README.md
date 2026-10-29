@@ -13,7 +13,9 @@ ComfyUI custom node for parse AI‑generated yaml parameters for MiniMax Music3.
 git clone https://github.com/feishengfei/comfyui_minimax_music_yaml_parser
 cd comfyui_minimax_music_yaml_parser
 pip install -e .
+```
 
 ## Workflow
+
 ![workflow](workflow/minimax_music3_workflow.png)
 [workflow](workflow/minimax_music3_workflow.json)
